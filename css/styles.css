@@ -42,15 +42,15 @@
     color: #008a00;
     font-weight: bold;
 }
-/*
-.btn {
+
+.btn-light {
     transition: transform 0.2s ease-in;
 }
 
-.btn:hover {
+.btn-light:hover {
     transform: scale(1.15);
 }
-*/
+
 
 .btn-outline-custom {
     color: #0d6efd;
