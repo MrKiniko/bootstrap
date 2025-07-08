@@ -1,0 +1,107 @@
+.dropdown-menu {
+    --bs-dropdown-link-hover-bg: rgba(0,0,0,0.6);
+}
+
+/*
+.cabecera {
+    background-color: rgba(0,0,0,0.4) !important;
+    text-transform: uppercase;
+}
+*/
+.cabecera {
+    background-color: #1a1a1a !important;
+    color: #f8f9fa;
+    text-transform: uppercase;
+    font-size: 22px;
+}
+
+.hero {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,1)), url('../img/hero-back4.webp');
+    background-size: cover;
+}
+
+.logo-jvf-hero {
+    transition: transform 0.3s ease-in;
+}
+
+.logo-jvf-hero:hover {
+    transform: scale(1.05);
+}
+
+.span1 {
+    color: #f8f9fa;
+    font-weight: bold;
+}
+
+.span2 {
+    color: #0d6efd;
+    font-weight: bold;
+}
+
+.span3 {
+    color: #008a00;
+    font-weight: bold;
+}
+/*
+.btn {
+    transition: transform 0.2s ease-in;
+}
+
+.btn:hover {
+    transform: scale(1.15);
+}
+*/
+
+.btn-outline-custom {
+    color: #0d6efd;
+    border: 2px solid #0d6efd;
+    background-color: transparent;
+    transition: background-color 0.3s, color 0.3s;
+    transition: transform 0.2s ease-in;
+}
+
+.btn-outline-custom:hover {
+    background-color: #0d6efd;
+    color: white;
+    transform: scale(1.15);
+}
+
+
+.btn-outline-custom2 {
+    color: #008a00;
+    border: 2px solid #008a00;
+    background-color: transparent;
+    transition: background-color 0.3s, color 0.3s;
+    transition: transform 0.2s ease-in;
+}
+
+.btn-outline-custom2:hover {
+    background-color: #008a00;
+    color: white;
+    transform: scale(1.1);
+}
+
+.verde {
+    color: #008a00;
+}
+
+.sistemas {
+    transition: transform 0.3s ease-in;
+}
+
+.sistemas:hover {
+    transform: scale(1.05);
+}
+
+.btn:hover {
+    color: black;
+}
+
+.footer {
+    background-color: #1a1a1a !important;
+    color: #f8f9fa;
+}
+
+.claim {
+    font-size: medium;
+}
