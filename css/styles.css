@@ -52,7 +52,7 @@
 }
 
 
-.btn-outline-custom {
+.btn-outline-primary {
     color: #0d6efd;
     border: 2px solid #0d6efd;
     background-color: transparent;
@@ -60,14 +60,13 @@
     transition: transform 0.2s ease-in;
 }
 
-.btn-outline-custom:hover {
+.btn-outline-primary:hover {
     background-color: #0d6efd;
-    color: white;
     transform: scale(1.15);
 }
 
 
-.btn-outline-custom2 {
+.btn-outline-success {
     color: #008a00;
     border: 2px solid #008a00;
     background-color: transparent;
@@ -75,9 +74,8 @@
     transition: transform 0.2s ease-in;
 }
 
-.btn-outline-custom2:hover {
+.btn-outline-success:hover {
     background-color: #008a00;
-    color: white;
     transform: scale(1.1);
 }
 
